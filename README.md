@@ -1,7 +1,5 @@
 ### sim_sensors
 
-This is a small python package. It holds two classes - HumiditySensor and TempSensor. There is an additional third
-package that provides a function for getting soil humidity values.
-
-These classes and function simulate simple environmental sensors like those that you would use in an IoT / SmartHome setup.
-All constructor parameters are optional. Check the code or docs to see the defaults.
+This is an educational python package that holds classes intended to simulate sensors. The sensors are those you would find in a typical IoT lab or home project.
+The objects created can be placed in seperate threads and spun up to spit out values. You can use the created values to demonstrate data visualisation and analysis skills. Or store them in a database and practice sql operations.
+Please check the code for additional comments that describe how the various components work.

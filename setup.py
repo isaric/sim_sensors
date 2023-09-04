@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
   name = 'sim_sensors',
   packages = ['sim_sensors'],
-  version = '0.2',
+  version = '0.3',
   license='MIT',
   description = 'A collection of classes that simulate IoT sensors',
   long_description=long_description,
