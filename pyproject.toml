@@ -7,7 +7,8 @@ name = "sim_sensors"
 version = "0.4"
 description = 'A collection of classes that simulate IoT sensors'
 readme = "README.md"
-authors = [{ name = "Ivan Šarić", email = "ivan@path-variable.com" }]
+authors = [{ name = "Ivan Šarić", email = "ivan@path-variable.com" },
+	   { name = "BlasePanda", email = "58369256+BlasePanda@users.noreply.github.com" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
