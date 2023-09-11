@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sim_sensors"
-version = "0.4"
+version = "0.4.1"
 description = 'A collection of classes that simulate IoT sensors'
 readme = "README.md"
 authors = [{ name = "Ivan Šarić", email = "ivan@path-variable.com" },
